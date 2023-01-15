@@ -13,4 +13,4 @@ Now it's available on DCS F-16C"Viper"
 |     3| Check you DCS World install path              |
 
 
-Download Link:  (unzip and copy the folder to *\DCS World OpenBeta\CoreMods\aircraft\F-16C\Liveries)
+Download Link: [click here](https://github.com/qlzx2104/NGUL/releases/tag/Publish) (unzip and copy the folder to *\DCS World OpenBeta\CoreMods\aircraft\F-16C\Liveries)
